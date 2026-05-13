@@ -88,7 +88,7 @@ nav .Ve {
   cursor: pointer;
 }
 
-@media screen and (max-width: 734px) {
+@media screen and (min-width: 480px) and (max-height: 1024px)  {
   nav {
     overflow-x: hidden;
      margin-left: 4px;
